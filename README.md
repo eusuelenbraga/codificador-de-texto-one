@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte do Challenge One do programa Oracle Nex
 
 ## 📋 Instruções:
 
-1. Acesse a página da aplicação clicando [neste link.](https://suelenbraga1.github.io/codificador-de-texto-one/)
+1. Acesse a página da aplicação clicando [neste link.](https://eusuelenbraga.github.io/codificador-de-texto-one/)
 2. No campo "Digite seu texto", insira o texto que você deseja criptografar ou descriptografar.
 3. Escolha a ação desejada: clique no botão "Criptografar" para codificar o texto ou no botão "Descriptografar" para decodificar.
 4. O resultado será exibido no lado direito da tela.
@@ -28,12 +28,11 @@ Este projeto foi desenvolvido como parte do Challenge One do programa Oracle Nex
    
 
 ## 👾 Link da página no github pages:
-https://suelenbraga1.github.io/codificador-de-texto-one/
+[https://suelenbraga1.github.io/codificador-de-texto-one/](https://eusuelenbraga.github.io/codificador-de-texto-one/)
 
 
 ## 👯 Clone este projeto:
 
 ```bash
-$ git clone https://github.com/suelenbraga1/decodificador-de-texto-one.git
-# Acessar
+$ git clone https://github.com/seusuelenbraga/decodificador-de-texto-one.git
 $ cd decodificador-de-texto-one
